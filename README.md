@@ -43,9 +43,14 @@
 ---
 
 ## 🌐 Social Links  
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/md.julfikar.986534)  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/md.julfikar.986534)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)  
 
 ---
+## 🎯 Fun Facts  
+- 🔥 I love solving coding challenges on **LeetCode & Codeforces**.  
+- 🎨 I design UI in **Figma** before coding.  
+- 🎵 Coding + Music = Perfect Combo!  
+
 
 ⭐️ From [julfikar2003](https://github.com/julfikar2003)
