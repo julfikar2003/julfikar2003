@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julfikar2003/julfikar2003/main/banner.png" alt="Banner" />
+  <img src="[https://raw.githubusercontent.com/julfikar2003/julfikar2003/main/banner.png](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)" alt="Banner" />
 </p>
 
 # 👋 Hello, I'm Md Julfikar Rahman  
