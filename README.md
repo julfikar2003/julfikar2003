@@ -50,8 +50,12 @@
 ---
 
 ## 🌐 Social Links  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://my-portfoilo-design.netlify.app/)  
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/md.julfikar.986534)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)  
+
 
 ---
 
