@@ -9,7 +9,8 @@
 
 - 🌱 Currently learning **React, Next.js, Tailwind CSS**  
 - 💬 Ask me about **JavaScript, CSS, React**  
-- 📫 Reach me at: [Facebook](https://www.facebook.com/md.julfikar.986534) | [Twitter](https://twitter.com/)  
+- 📫 Reach me at: [Portfolio](https://my-portfoilo-design.netlify.app/) | [Facebook](https://www.facebook.com/md.julfikar.986534) | [Twitter](https://twitter.com/)
+
 
 ---
 
